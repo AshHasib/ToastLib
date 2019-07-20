@@ -19,7 +19,7 @@ Inside app level gradle script:
 
 ```
 dependencies {
-    implementation 'com.github.AshHasib:ToastLib:Tag'
+    implementation 'com.github.AshHasib:ToastLib:0.1.0'
 }
 
 ```
